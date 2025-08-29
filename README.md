@@ -3,3 +3,4 @@
 
 <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1CF710&width=435&lines=Russian+programmer+from+Moscow" alt="Typing SVG" /></a></h1>
 
+<img alt="Static Badge" src="https://img.shields.io/badge/current_project-undefined_OS-red">
